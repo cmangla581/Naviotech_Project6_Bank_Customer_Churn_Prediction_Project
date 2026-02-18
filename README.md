@@ -8,13 +8,21 @@ which customers are likely to remain in the bank and which customers are likely 
 Here, the predictions of the customer churn has been made on mainly 9 parameters which are as: 
 
   Total Charges
+  
   Monthly Charges 
+  
   Tenure  
+  
   Contract Type  
+  
   Internet Service 
+  
   Payment Method 
+  
   Tech Support 
+  
   Online Security 
+  
   Paperless Billing 
 
 # Model Accuracy : 77.19 %  
